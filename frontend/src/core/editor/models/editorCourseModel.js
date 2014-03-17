@@ -6,8 +6,8 @@ define(function(require) {
 		urlRoot: '/api/content/course'
 	}, 
 	{
-    	_siblings:'',
-        _children: 'contentObjects'
+    _siblings:'',
+    _children: 'contentObjects'
 	});
 
 	return EditorCourseModel;
